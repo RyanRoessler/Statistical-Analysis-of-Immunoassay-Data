@@ -8,7 +8,7 @@ How the code works:
   <li>Uses Scikit-learn to apply a linear regression model to each region and extract the corresponding $R^2$ value.</li>
   <li>Uses functions for plotting subplots with the different concentration regions defined/highlighted. Legends display the corresponding $R^2$ value.
     <ul>
-      <li>The highest $R^2$ value is displayed in red text for ease of determination.</li>
+      <li>The highest $R^2$ value for each sample is displayed in red text.</li>
     </ul>
   </li>
 </ul>
