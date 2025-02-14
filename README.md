@@ -1,6 +1,6 @@
-This repository contains Python code I wrote for statistically analyzing the linearity between sample concentration and detection of an oncogenic target protein.  
+This repository contains a sample of Python code I wrote for statistically analyzing the linearity between sample concentration and detection of an oncogenic target.  
 
-The code uses data from high-throughput, automated Western blot assays I ran using Jess SW.
+The datasets were generated from high-throughput, automated Western blot assays I ran in the lab.
 
 How the code works:
 <ul>
